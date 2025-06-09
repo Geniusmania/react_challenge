@@ -21,7 +21,6 @@ The application follows a component-based architecture with clear separation of 
 - **Responsive Grid**: Adaptive layout that adjusts from single column on mobile to three columns on desktop
 
 #### 3. Data-Driven Content
-- **Dynamic Pricing**: Real-time calculation of total prices including VAT
 - **Feature Badges**: Clear indicators for road legality and heavy waste acceptance
 - **Comprehensive Information**: Hire periods, pricing breakdowns, and container specifications
 
